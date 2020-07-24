@@ -1,2 +1,3 @@
-# InvoiceGenerator
-Modest invoice generator written in C#
+# Invoice Builder
+
+More to come...
